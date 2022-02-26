@@ -6,13 +6,15 @@ public class MyClass {
 		// TODO Auto-generated method stub
 
 				// TODO Auto-generated method stub
-				int i;
-				for(i=1;i<=5;i++)
-				{
-				System.out.println(i);
+				int i=5; int j=2;
+				if (i%j==0)
+				
+				System.out.println("Number is Even");
+				
+				else
+				
+			System.out.println("Number is ODD");
 			
-			}
-
 	}
 
 }
